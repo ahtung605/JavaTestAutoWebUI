@@ -1,3 +1,4 @@
+### Java ###
 # Compiled class file
 *.class
 
@@ -21,3 +22,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+### Intellij Patch ###
+# Ignores the whole .idea folder and all .iml files
+.idea/
+*.iml
+# modules.xml
+# .idea/misc.xml
+# *.ipr
+/out
+
+# specific files
+tests.java
