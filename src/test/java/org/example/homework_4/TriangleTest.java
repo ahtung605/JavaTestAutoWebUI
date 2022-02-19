@@ -1,4 +1,4 @@
-package org.example;
+package org.example.homework_4;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
@@ -8,8 +8,8 @@ import org.junit.jupiter.params.provider.CsvSource;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import static org.example.Triangle.areaTriangle;
-import static org.example.Triangle.isTriangle;
+import static org.example.homework_4.Triangle.areaTriangle;
+import static org.example.homework_4.Triangle.isTriangle;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**

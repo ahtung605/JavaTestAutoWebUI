@@ -1,5 +1,5 @@
 
-package org.example;
+package org.example.content;
 
 /**
  * Hello world!
