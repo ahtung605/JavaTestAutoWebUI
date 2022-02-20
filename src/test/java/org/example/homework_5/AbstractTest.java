@@ -1,7 +1,6 @@
 package org.example.homework_5;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.example.homework_4.TriangleTest;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
